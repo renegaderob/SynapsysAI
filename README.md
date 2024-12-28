@@ -9,7 +9,7 @@ A cutting-edge AI framework for building intelligent, adaptive, and scalable app
 - Easy integration with existing systems and cloud services.
 - Comprehensive support for training, deploying, and monitoring models.
 
-- Backend Code (Python - FastAPI)  :
+Backend Code (Python - FastAPI)  :
 backend/main.py  :
 
 from fastapi import FastAPI, HTTPException
