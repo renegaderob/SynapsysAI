@@ -1,0 +1,12 @@
+synapsys_ai/
+├── synapsys/
+│   ├── __init__.py
+│   ├── data_processor.py
+│   ├── model_trainer.py
+│   ├── deployer.py
+│   └── utils.py
+├── examples/
+│   ├── sentiment_analysis.py
+│   ├── image_classification.py
+├── requirements.txt
+└── README.md
